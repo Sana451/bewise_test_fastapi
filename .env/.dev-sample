@@ -1,0 +1,2 @@
+FASTAPI_CONFIG=development
+DATABASE_URL=postgresql://fastapi_celery:fastapi_celery@db/fastapi_celery
